@@ -4,14 +4,15 @@
     { "name": "Marius Bălaj", "role": "Co-founder" },
     { "name": "Vlad Temian", "role": "Co-founder" },
     { "name": "Bogdan Moldovean", "role": "Principal Engineer" },
-    { "name": "Vali Chiș", "role": "Principal Engineer" },
-    { "name": "Petru Vlad", "role": "Art Director" },
+    { "name": "Valeriu Chiș", "role": "Principal Engineer" },
+    { "name": "Victor Laza", "role": "Senior DevOps Engineer" },
     { "name": "Mihai Temian", "role": "Software Developer" },
     { "name": "Anamaria Madincea", "role": "Software Developer" },
     { "name": "Rareș Stoica", "role": "Software Developer" },
     { "name": "Mugurel Comăneanu", "role": "Software Developer" },
     { "name": "Alin Bărbătei", "role": "Software Developer" },
     { "name": "Sebastian Bălaj", "role": "Software Developer" },
+    { "name": "Petru Vlad", "role": "Art Director" },
     { "name": "Andrei Tămaș", "role": "Test Engineer" }
   ]
 }
